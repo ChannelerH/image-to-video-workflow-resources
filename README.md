@@ -49,3 +49,7 @@ Use [comparison-template.csv](comparison-template.csv) to record your own observ
 ## Notes
 
 Model availability, prices and settings can change; check the linked workspace before generating. Use images you have permission to upload. No sample outputs or performance figures are claimed in this repository.
+
+## Published H3 example recipes
+
+[Five H3 Max and Turbo recipes](h3-recipes.md) include the original prompts, recorded settings, output clips and available reference assets from the September 5 showcase. These are documented existing outputs, not new benchmark runs.
