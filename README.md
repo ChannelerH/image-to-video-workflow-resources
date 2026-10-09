@@ -53,3 +53,8 @@ Model availability, prices and settings can change; check the linked workspace b
 ## Published H3 example recipes
 
 [Five H3 Max and Turbo recipes](h3-recipes.md) include the original prompts, recorded settings, output clips and available reference assets from the September 5 showcase. These are documented existing outputs, not new benchmark runs.
+
+
+## Image preparation before video
+
+See the [image output acceptance worksheet](nano21-acceptance.md) for decoded dimensions, output counts, format checks and separate customer/provider billing fields. This is a Freya-owned integration note, not an independent quality benchmark.
